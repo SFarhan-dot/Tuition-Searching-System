@@ -11,7 +11,7 @@
               <a>Tuition-Searching-System</a> 
 			  <br>
             </div>
-			 &copy; Adiba Tabassum(19101211) Section 04
+			 &copy; Farhan Sakib(18301176) Section 03
 		
           </div>
         </div>
